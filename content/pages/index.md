@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Today is The day
+      text: A VISION OF A BETTER FUTURE.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
