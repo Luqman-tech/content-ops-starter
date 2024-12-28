@@ -12,15 +12,6 @@ sections:
       Glimpse a world where innovation not only shapes progress but becomes the
       cornestone of a hermonious existence for both people and nature.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
