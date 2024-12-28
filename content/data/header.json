@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo.png",
+        "url": "/images/logo.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
