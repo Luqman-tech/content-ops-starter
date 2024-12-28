@@ -11,16 +11,7 @@ sections:
     text: >
       Glimpse a world where innovation not only shapes progress but becomes the
       cornestone of a hermonious existence for both people and nature.
-    actions:
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/MtKilimanjaroElephant.jpg
       altText: Unblock your team boost your time to production preview
