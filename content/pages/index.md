@@ -132,7 +132,9 @@ sections:
       text: Our Story
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: >-
+      OUR GOAL: HAVE COMMUNITIES UPLIFT THEMSELVES USING THE POWER OF INNOVATION
+      AND TECHNOLOGY
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
