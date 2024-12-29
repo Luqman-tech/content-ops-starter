@@ -163,6 +163,7 @@ sections:
       self:
         alignItems: center
         flexDirection: col
+        justifyContent: center
     type: GenericSection
   - title:
       text: Business Consulting
