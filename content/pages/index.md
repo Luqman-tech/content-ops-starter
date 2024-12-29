@@ -129,7 +129,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Our Story
+      text: OUR STORY
       color: text-dark
       type: TitleBlock
     subtitle: >-
