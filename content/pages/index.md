@@ -57,7 +57,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: >-
+      OUR GOAL: HAVE COMMUNITIES UPLIFT THEMSELVES USING THE POWER OF INNOVATION
+      AND TECHNOLOGY.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
