@@ -254,7 +254,7 @@ sections:
     styles:
       self:
         flexDirection: col
-        justifyContent: center
+        justifyContent: flex-end
       subtitle:
         textAlign: center
     type: GenericSection
