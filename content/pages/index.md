@@ -143,13 +143,7 @@ sections:
       project strategies that enhance overall well-being of the environment, the
       people, and the fiscal standing of the parties involved, all at once.
 
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       url: /images/planetcity.jpg
       altText: Fun feature preview
