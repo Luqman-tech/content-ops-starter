@@ -124,7 +124,7 @@ sections:
     styles:
       self:
         flexDirection: row
-        justifyContent: flex-end
+        justifyContent: center
         alignItems: flex-end
       subtitle:
         textAlign: left
