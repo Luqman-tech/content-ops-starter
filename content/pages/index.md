@@ -62,12 +62,19 @@ sections:
       AND TECHNOLOGY.
     text: >
       ![](/images/planetcity.jpg)We are a social enterprise consisting of
-      experts with backgrounds and rich experience in community development,
-      environmental science, business development, engineering, and technology.
-      We leverage data-driven technology, business, and environmental expertise
-      to implement innovative project strategies that enhance the overall
-      well-being of the environment, the people, and the fiscal standing of the
-      parties involved, all at once.
+      experts with backgrounds and rich experience in 
+
+
+      community development, environmental science, business development,
+      engineering, and
+
+       technology. We leverage data-driven technology, business, and environmental expertise to 
+
+      implement innovative project strategies that enhance the overall
+      well-being of the environment, 
+
+
+      the people, and the fiscal standing of the parties involved, all at once.
     badge:
       label: OUR STORY
       color: text-primary
