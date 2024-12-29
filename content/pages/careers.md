@@ -70,7 +70,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: center
+        justifyContent: flex-end
       subtitle:
         textAlign: center
     type: FeaturedPeopleSection
