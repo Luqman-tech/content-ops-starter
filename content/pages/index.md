@@ -40,6 +40,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/MtKilimanjaroElephant.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
