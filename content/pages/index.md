@@ -51,7 +51,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Business Consulting
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: ABOUT US
