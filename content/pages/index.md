@@ -134,7 +134,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/planetcity.jpg
       altText: Fun feature preview
     badge:
       type: Badge
