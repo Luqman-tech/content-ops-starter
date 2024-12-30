@@ -45,7 +45,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: ''
+    subtitle: ABOUT US
     text: >+
       We are a social enterprise consisting of experts with backgrounds and rich
       experience in community development, environmental science, business
