@@ -148,6 +148,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        margin:
+          - mt-12
       subtitle:
         textAlign: center
   - title:
