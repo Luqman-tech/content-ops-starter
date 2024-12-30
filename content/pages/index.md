@@ -227,8 +227,10 @@ sections:
         justifyContent: center
         alignItems: flex-start
         padding:
-          - pt-1
-          - pb-1
+          - pt-2
+          - pb-2
+          - pl-2
+          - pr-2
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
