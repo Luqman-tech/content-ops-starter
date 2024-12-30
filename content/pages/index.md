@@ -171,7 +171,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: O
+      - title: OUR VISION
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
