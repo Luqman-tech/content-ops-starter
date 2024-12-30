@@ -67,13 +67,13 @@ sections:
       We leverage data-driven technology, business, and environmental expertise
       to implement innovative project strategies that enhance the overall
       well-being of the environment, the people, and the fiscal standing of the
-      parties involved, all at once.###### OUR VISION: To achieve a continent
-      with thriving ecosystems, where development leverages innovation that is
-      geared towards enhancing the quality of life of the African people, their
-      environment, and their economic standing.###### OUR MISSION: To build and
-      amplify solutions and project strategies that efficiently function to
-      ensure simultaneous benefit to the environment, the innovative and fiscal
-      standpoint of the business involved, and the people.
+      parties involved, all at once.<div>OUR VISION: To achieve a continent with
+      thriving ecosystems, where development leverages innovation that is geared
+      towards enhancing the quality of life of the African people, their
+      environment, and their economic standing.</div>###### OUR MISSION: To
+      build and amplify solutions and project strategies that efficiently
+      function to ensure simultaneous benefit to the environment, the innovative
+      and fiscal standpoint of the business involved, and the people.</div>
 
 
       </div>
