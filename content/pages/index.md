@@ -59,7 +59,7 @@ sections:
       Changing Africa using the power of innovation and technology.
     actions: []
     media:
-      url: /images/hero3.svg
+      url: /images/hands.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
