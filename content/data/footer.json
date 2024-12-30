@@ -1,15 +1,15 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/logo (1).png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Eco Thrive Africa\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "oUr services",
         "links": [
             {
-                "label": "Features",
+                "label": "Data Management Consultation",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Data Mining, Analysis and Interpretation",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,7 +26,7 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Project Strategies, Consultation, and Implementation",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
