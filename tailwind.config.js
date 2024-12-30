@@ -20,11 +20,16 @@ module.exports = {
                 dark: themeStyle.dark,
                 neutral: themeStyle.neutral,
                 neutralAlt: themeStyle.neutralAlt,
-                primary: themeStyle.primary
+                primary: themeStyle.primary,
+                secondary: themeStyle.secondary,
+                success: themeStyle.success,
+                danger: themeStyle.danger,
+                warning: themeStyle.warning,
+                info: themeStyle.info
             },
             fontFamily: {
-                sans: ['Inter', 'sans-serif'],
-                serif: ['Roboto Slab', 'serif']
+                sans: ['Inter', 'sans-serif', 'open sans', 'lato', ],
+                serif: ['Roboto Slab', 'serif', 'merriweather', 'montserrat', 'playfair display']
             },
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'
