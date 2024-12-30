@@ -75,10 +75,10 @@ sections:
         margin:
           - mt-0
         padding:
-          - pt-7
-          - pb-7
-          - pl-7
-          - pr-7
+          - pt-14
+          - pb-14
+          - pl-14
+          - pr-14
       subtitle:
         textAlign: center
     type: GenericSection
