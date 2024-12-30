@@ -150,7 +150,7 @@ sections:
             textAlign: left
             borderRadius: large
             flexDirection: col
-            justifyContent: center
+            justifyContent: flex-end
         type: FeaturedItem
       - title: OUR VISION
         tagline: ''
