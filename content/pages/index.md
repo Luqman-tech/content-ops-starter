@@ -74,6 +74,8 @@ sections:
         alignItems: center
         margin:
           - mt-0
+        padding:
+          - pt-1
       subtitle:
         textAlign: center
     type: GenericSection
