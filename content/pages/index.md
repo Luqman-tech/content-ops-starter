@@ -88,9 +88,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      OUR GOAL: HAVE COMMUNITIES UPLIFT THEMSELVES USING THE POWER OF INNOVATION
-      AND TECHNOLOGY
+    subtitle: OUR VISION
     text: >+
       We are a social enterprise consisting of experts with backgrounds and rich
       experience in community development, environmental science, business
