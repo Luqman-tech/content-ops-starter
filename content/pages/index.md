@@ -55,9 +55,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ABOUT US
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      Changing Africa using the power of innovation and technology.
     actions:
       - label: Get started
         url: /
