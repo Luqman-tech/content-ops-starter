@@ -172,7 +172,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: OUR VISION
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: ''
         text: >+
           To achieve a continent with thriving ecosystems; where development
