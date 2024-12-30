@@ -40,6 +40,37 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: OUR STORY
+      color: text-dark
+    subtitle: >-
+      OUR GOAL: HAVE COMMUNITIES UPLIFT THEMSELVES USING THE POWER OF INNOVATION
+      AND TECHNOLOGY
+    text: >+
+      We are a social enterprise consisting of experts with backgrounds and rich
+      experience in community development, environmental science, business
+      development, engineering and technology. We leverage data-driven
+      technology, business, environmental expertise to implement innovative
+      project strategies that enhance overall well-being of the environment, the
+      people, and the fiscal standing of the parties involved, all at once.
+
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/planetcity.jpg
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: col
+        justifyContent: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
