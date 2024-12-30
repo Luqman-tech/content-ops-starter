@@ -57,14 +57,7 @@ sections:
     subtitle: ABOUT US
     text: |
       Changing Africa using the power of innovation and technology.
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/hero3.svg
       altText: Dope design preview
