@@ -91,34 +91,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - title:
-      text: ''
-      color: text-dark
-      type: TitleBlock
-    subtitle: OUR VISION
-    text: >+
-      To achieve a continent with thriving ecosystems; where development
-      leverages innovation that is geared towards enhancing the quality of life
-      of the African people, their environment and, their economic standing.
-
-
-
-
-    actions: []
-    media:
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: col
-        justifyContent: center
-    type: GenericSection
   - type: GenericSection
     title:
       type: TitleBlock
