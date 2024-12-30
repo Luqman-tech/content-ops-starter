@@ -101,7 +101,6 @@ sections:
 
     actions: []
     media:
-      url: /images/planetcity.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
