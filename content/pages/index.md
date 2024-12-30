@@ -54,7 +54,7 @@ sections:
       text: ABOUT US
       color: text-dark
       type: TitleBlock
-    subtitle: ABOUT US
+    subtitle: ''
     text: |
       Changing Africa using the power of innovation and technology.
     actions: []
