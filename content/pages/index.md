@@ -160,8 +160,10 @@ sections:
           - mt-1
           - mb-1
         padding:
-          - pt-1
-          - pb-1
+          - pt-10
+          - pb-10
+          - pl-10
+          - pr-10
       subtitle:
         textAlign: center
   - title:
