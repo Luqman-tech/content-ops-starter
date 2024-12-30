@@ -51,7 +51,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: ''
+      text: ABOUT US
       color: text-dark
       type: TitleBlock
     subtitle: ABOUT US
