@@ -207,7 +207,7 @@ sections:
     type: GenericSection
     styles:
       self:
-        flexDirection: col
+        flexDirection: col-reverse
         justifyContent: center
         alignItems: flex-start
 seo:
