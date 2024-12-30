@@ -72,6 +72,8 @@ sections:
         flexDirection: col
         justifyContent: center
         alignItems: center
+        margin:
+          - mt-8
       subtitle:
         textAlign: center
     type: GenericSection
