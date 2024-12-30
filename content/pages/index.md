@@ -149,7 +149,7 @@ sections:
       self:
         justifyContent: center
         margin:
-          - mt-16
+          - mt-96
           - mb-12
       subtitle:
         textAlign: center
