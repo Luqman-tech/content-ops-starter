@@ -91,34 +91,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: OUR MISSION
-    text: >+
-      To build and amplify solutions and project strategies that efficiently
-      function to ensure simultaneous benefit to the environment, the innovative
-      and fiscal stand-point of the business involved and the people.
-
-
-
-
-    actions: []
-    media:
-      type: ImageBlock
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: col
-        justifyContent: center
   - title:
       text: Business Consulting
       color: text-dark
