@@ -118,7 +118,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: OUR STORY
+      text: OUR MISSION
       color: text-dark
     subtitle: >-
       OUR GOAL: HAVE COMMUNITIES UPLIFT THEMSELVES USING THE POWER OF INNOVATION
