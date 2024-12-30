@@ -71,6 +71,7 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        alignItems: center
       subtitle:
         textAlign: center
     type: GenericSection
