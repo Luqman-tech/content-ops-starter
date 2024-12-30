@@ -90,12 +90,12 @@ sections:
       type: TitleBlock
     subtitle: OUR VISION
     text: >+
-      We are a social enterprise consisting of experts with backgrounds and rich
-      experience in community development, environmental science, business
-      development, engineering and technology. We leverage data-driven
-      technology, business, environmental expertise to implement innovative
-      project strategies that enhance overall well-being of the environment, the
-      people, and the fiscal standing of the parties involved, all at once.
+      To achieve a continent with thriving ecosystems; where development
+      leverages innovation that is geared towards enhancing the quality of life
+      of the African people, their environment and, their economic standing.
+
+
+
 
     actions: []
     media:
