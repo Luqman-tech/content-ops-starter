@@ -46,13 +46,8 @@ sections:
       text: ''
       color: text-dark
     subtitle: ABOUT US
-    text: >+
-      We are a social enterprise consisting of experts with backgrounds and rich
-      experience in community development, environmental science, business
-      development, engineering and technology. We leverage data-driven
-      technology, business, environmental expertise to implement innovative
-      project strategies that enhance overall well-being of the environment, the
-      people, and the fiscal standing of the parties involved, all at once.
+    text: |+
+      Changing Africa using the power of innovation and technology
 
     actions: []
     media:
