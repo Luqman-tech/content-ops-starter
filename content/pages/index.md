@@ -61,23 +61,20 @@ sections:
       OUR GOAL: HAVE COMMUNITIES UPLIFT THEMSELVES USING THE POWER OF INNOVATION
       AND TECHNOLOGY.
     text: >+
-      <div style="text-align: left">```
-
-      <div>We are a social enterprise consisting of experts with backgrounds and
-      rich experience in community development, environmental science, business
-      development, engineering, and technology. We leverage data-driven
-      technology, business, and environmental expertise to implement innovative
-      project strategies that enhance the overall well-being of the environment,
-      the people, and the fiscal standing of the parties involved, all at
-      once.</div><div>OUR VISION: To achieve a continent with thriving
-      ecosystems, where development leverages innovation that is geared towards
-      enhancing the quality of life of the African people, their environment,
-      and their economic standing.</div><br><di>OUR MISSION: To build and
-      amplify solutions and project strategies that efficiently function to
-      ensure simultaneous benefit to the environment, the innovative and fiscal
-      standpoint of the business involved, and the people.</div>
-
-      ```</div>
+      <div style="text-align: left"><div>We are a social enterprise consisting
+      of experts with backgrounds and rich experience in community development,
+      environmental science, business development, engineering, and technology.
+      We leverage data-driven technology, business, and environmental expertise
+      to implement innovative project strategies that enhance the overall
+      well-being of the environment, the people, and the fiscal standing of the
+      parties involved, all at once.</div><div>OUR VISION: To achieve a
+      continent with thriving ecosystems, where development leverages innovation
+      that is geared towards enhancing the quality of life of the African
+      people, their environment, and their economic standing.</div><br><di>OUR
+      MISSION: To build and amplify solutions and project strategies that
+      efficiently function to ensure simultaneous benefit to the environment,
+      the innovative and fiscal standpoint of the business involved, and the
+      people.</di></div>
 
     badge:
       label: OUR STORY
