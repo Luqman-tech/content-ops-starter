@@ -58,12 +58,6 @@ sections:
     text: |
       Changing Africa using the power of innovation and technology.
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
