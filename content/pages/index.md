@@ -151,6 +151,8 @@ sections:
         margin:
           - mt-1
           - mb-1
+        padding:
+          - pt-1
       subtitle:
         textAlign: center
   - title:
