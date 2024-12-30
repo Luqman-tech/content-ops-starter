@@ -1,0 +1,55 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "STATEMENT",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "ABOUTUS"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "OUR STORY",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "OUR GOAL: HAVE COMMUNITIES UPLIFT THEMSELVES USING THE POWER OF INNOVATION AND TECHNOLOGY",
+                "text": "We are a social enterprise consisting of experts with backgrounds and rich experience in community development, environmental science, business development, engineering and technology. We leverage data-driven technology, business, environmental expertise to implement innovative project strategies that enhance overall well-being of the environment, the people, and the fiscal standing of the parties involved, all at once.\n\n",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/planetcity.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Fun feature preview",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "col",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-statement-b75e.png"
+        }
+    ]
+}
