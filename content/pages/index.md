@@ -75,7 +75,7 @@ sections:
         margin:
           - mt-0
         padding:
-          - pt-5
+          - pt-8
           - pb-7
       subtitle:
         textAlign: center
