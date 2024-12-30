@@ -54,7 +54,7 @@ sections:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ABOUT US
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
