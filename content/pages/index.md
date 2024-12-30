@@ -76,7 +76,7 @@ sections:
           - mt-0
         padding:
           - pt-0
-          - pb-1
+          - pb-0
       subtitle:
         textAlign: center
     type: GenericSection
