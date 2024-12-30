@@ -174,10 +174,15 @@ sections:
       - title: OUR VISION
         tagline: Testimonial 2
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          To achieve a continent with thriving ecosystems; where development
+          leverages innovation that is geared towards enhancing the quality of
+          life of the African people, their environment and, their economic
+          standing.
+
+
+
+
         image:
           altText: John Doe
           styles:
