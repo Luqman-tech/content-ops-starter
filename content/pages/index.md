@@ -73,7 +73,7 @@ sections:
         justifyContent: center
         alignItems: center
         margin:
-          - mt-8
+          - mt-0
       subtitle:
         textAlign: center
     type: GenericSection
