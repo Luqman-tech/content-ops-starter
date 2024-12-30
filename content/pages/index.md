@@ -144,10 +144,15 @@ sections:
       - title: OUR MISSION
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          To build and amplify solutions and project strategies that efficiently
+          function to ensure simultaneous benefit to the environment, the
+          innovative and fiscal stand-point of the business involved and the
+          people.
+
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
