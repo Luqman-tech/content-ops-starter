@@ -51,28 +51,6 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: ABOUT US
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: |
-      Changing Africa using the power of innovation and technology.
-    actions: []
-    media:
-      url: /images/hands.jpg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
-  - title:
       text: ''
       color: text-dark
       styles:
