@@ -85,7 +85,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: OUR STORY
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: >-
