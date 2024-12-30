@@ -40,30 +40,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ABOUT US
-    text: |+
-      Changing Africa using the power of innovation and technology
-
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/planetcity.jpg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: col
-        justifyContent: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
