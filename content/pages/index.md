@@ -150,6 +150,7 @@ sections:
         justifyContent: center
         margin:
           - mt-12
+          - mb-12
       subtitle:
         textAlign: center
   - title:
