@@ -8,9 +8,14 @@ sections:
       text: WHAT WE DO.
       color: text-dark
     subtitle: ''
-    text: >
-      Glimpse a world where innovation not only shapes progress but becomes the
-      cornestone of a hermonious existence for both people and nature.
+    text: >+
+      #### WE ARE IN THE BUSINESS OF PROVIDING INNOVATIVE SOLUTIONS.
+
+
+      #### *Our team of experts implements innovative strategies that enhance
+      the overall well-being of the environment, the people, and fiscal standing
+      of the parties involved.*
+
     actions: []
     media:
       type: ImageBlock
