@@ -25,7 +25,11 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
-![](/images/cq5dam.thumbnail.cropped.1500.844-1024x576.jpeg)Kenya has recently experienced severe flooding that has caused widespread devastation, particularly in small communities. The floods have not only led to loss of life and property but have also disrupted the daily lives and livelihoods of many Kenyans. This blog post delves into the causes of these floods, their impact on small communities, and what authorities can do to mitigate such disasters in the future.
+![](/images/cq5dam.thumbnail.cropped.1500.844-1024x576.jpeg)
+
+
+
+Kenya has recently experienced severe flooding that has caused widespread devastation, particularly in small communities. The floods have not only led to loss of life and property but have also disrupted the daily lives and livelihoods of many Kenyans. This blog post delves into the causes of these floods, their impact on small communities, and what authorities can do to mitigate such disasters in the future.
 
 ## Causes of the Flooding
 
