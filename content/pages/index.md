@@ -63,7 +63,7 @@ sections:
 
     badge:
       label: OUR STORY
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
