@@ -47,10 +47,11 @@ sections:
     items:
       - title: Data Management Consultation
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We work with you to identify the key data points needed to assess your
+          environmental, fiscal, and social standing and impact and custom-make
+          a record-keeping and storage technique that is most efficient for you
+          and your goals.
         colors: bg-neutral-fg-dark
         styles:
           self:
