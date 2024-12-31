@@ -75,10 +75,20 @@ sections:
               borderRadius: medium
       - title: 'Data Mining, Analysis, and Interpretation'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We analyze your existing data, and those from external sources when
+          needed, and
+
+          interpret the findings in accordance to your goal. We will help you
+          understand
+
+          where you are at in relation to where you would like to be, and how to
+          get
+
+          there, and the innovative steps you can take to enhance your
+          financial, social
+
+          and environmental impact.
         colors: bg-neutral-fg-dark
         styles:
           self:
