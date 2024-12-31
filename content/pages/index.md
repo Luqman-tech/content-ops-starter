@@ -84,7 +84,7 @@ sections:
           - pr-14
       subtitle:
         textAlign: center
-        fontWeight: 400
+        fontWeight: 500
         fontStyle: italic
     type: GenericSection
   - type: CarouselSection
