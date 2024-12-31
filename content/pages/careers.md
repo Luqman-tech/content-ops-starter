@@ -9,12 +9,10 @@ sections:
       color: text-dark
     subtitle: ''
     text: >+
-      #### WE ARE IN THE BUSINESS OF PROVIDING INNOVATIVE SOLUTIONS.
-
-
-      #### *Our team of experts implements innovative strategies that enhance
-      the overall well-being of the environment, the people, and fiscal standing
-      of the parties involved.*
+      #### WE ARE IN THE BUSINESS OF PROVIDING INNOVATIVE SOLUTIONS.*Our team of
+      experts implements innovative strategies that enhance the overall
+      well-being of the environment, the people, and fiscal standing of the
+      parties involved.*
 
     actions: []
     media:
