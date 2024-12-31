@@ -112,7 +112,7 @@ sections:
           economic
 
           and physical standing on the community.
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
