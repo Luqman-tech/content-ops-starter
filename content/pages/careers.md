@@ -52,7 +52,7 @@ sections:
           environmental, fiscal, and social standing and impact and custom-make
           a record-keeping and storage technique that is most efficient for you
           and your goals.
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
