@@ -208,7 +208,7 @@ sections:
             - pl-6
             - pr-6
           borderColor: border-dark
-          borderStyle: dashed
+          borderStyle: solid
           borderWidth: 1
           borderRadius: large
       type: FormBlock
