@@ -37,7 +37,7 @@ sections:
           - pr-16
         justifyContent: flex-end
   - title:
-      text: Open positions
+      text: OUR SERVICES
       color: text-dark
       styles:
         self:
