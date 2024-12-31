@@ -14,7 +14,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/MtKilimanjaroElephant.jpg
+      url: /images/Lightbulb.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
