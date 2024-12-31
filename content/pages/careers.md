@@ -48,6 +48,9 @@ sections:
       - title: Data Management Consultation
         subtitle: ''
         text: >
+          ![](/images/datamining.jpeg)
+
+
           We work with you to identify the key data points needed to assess your
           environmental, fiscal, and social standing and impact and custom-make
           a record-keeping and storage technique that is most efficient for you
