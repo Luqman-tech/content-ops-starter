@@ -38,7 +38,7 @@ sections:
         justifyContent: flex-end
   - title:
       text: OUR SERVICES
-      color: text-neutral
+      color: text-dark
       styles:
         self:
           textAlign: center
