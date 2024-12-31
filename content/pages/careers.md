@@ -46,7 +46,7 @@ sections:
     subtitle: ''
     items:
       - title: Data Management Consultation
-        subtitle: Sales
+        subtitle: ''
         text: >
           We work with you to identify the key data points needed to assess your
           environmental, fiscal, and social standing and impact and custom-make
