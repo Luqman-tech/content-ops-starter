@@ -127,8 +127,14 @@ sections:
         title: Sustainable Business Development
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Using our wide networks, we help you establish sustainable sourcing
+          and distribution
+
+          networks that better the lives of the people involved, are environment
+          friendly
+
+          and, are economically sound to you. 
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
