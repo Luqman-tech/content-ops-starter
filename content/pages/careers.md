@@ -73,7 +73,7 @@ sections:
           styles:
             self:
               borderRadius: medium
-      - title: Open Source Engineer
+      - title: 'Data Mining, Analysis, and Interpretation'
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
