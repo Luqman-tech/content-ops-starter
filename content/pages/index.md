@@ -85,6 +85,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+        fontStyle: italic
     type: GenericSection
   - type: CarouselSection
     title: null
