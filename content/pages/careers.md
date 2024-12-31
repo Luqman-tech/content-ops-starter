@@ -104,10 +104,14 @@ sections:
         type: FeaturedItem
       - title: Project Strategies Consultation and Implementation
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We help you realize your goals by working with you to create scalable,
+          sustainable
+
+          implementation strategies that bear simultaneous impact on the social,
+          economic
+
+          and physical standing on the community.
         colors: bg-neutral-fg-dark
         styles:
           self:
