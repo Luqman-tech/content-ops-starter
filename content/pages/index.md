@@ -83,6 +83,7 @@ sections:
           - pr-14
       subtitle:
         textAlign: center
+        fontWeight: 700
     type: GenericSection
   - type: CarouselSection
     title: null
