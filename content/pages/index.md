@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      ##### ***Glimpse a world where innovation not only shapes progress but
+      #### *Glimpse a world where innovation not only shapes progress but
       becomes the cornestone of a hermonious existence for both people and
-      nature.***
+      nature.*
 
     actions: []
     media:
