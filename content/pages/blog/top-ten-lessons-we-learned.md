@@ -6,7 +6,7 @@ slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: ''
 featuredImage:
-  url: /images/images.jpeg
+  url: /images/cq5dam.thumbnail.cropped.1500.844-1024x576.jpeg
   altText: Thumbnail
   type: ImageBlock
   styles:
