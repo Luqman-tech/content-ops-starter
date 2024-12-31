@@ -8,9 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      Glimpse a world where innovation not only shapes progress but becomes the
-      cornestone of a hermonious existence for both people and nature.
+    text: >+
+      ##### ***Glimpse a world where innovation not only shapes progress but
+      becomes the cornestone of a hermonious existence for both people and
+      nature.***
+
     actions: []
     media:
       url: /images/MtKilimanjaroElephant.jpg
