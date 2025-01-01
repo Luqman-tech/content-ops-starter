@@ -2,6 +2,37 @@
 title: Pricing
 slug: pricing
 sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: A VISION OF A BETTER FUTURE.
+      color: text-dark
+    subtitle: ''
+    text: >
+      Glimpse a world where innovation not only shapes progress but becomes the
+      cornestone of a hermonious existence for both people and nature.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/MtKilimanjaroElephant.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: flex-end
   - title:
       text: Flexible Pricing
       color: text-dark
