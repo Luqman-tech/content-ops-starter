@@ -33,7 +33,7 @@
         },
         {
             "type": "Link",
-            "label": "SProjects",
+            "label": "Projects",
             "altText": "",
             "url": "/pricing",
             "showIcon": false,
