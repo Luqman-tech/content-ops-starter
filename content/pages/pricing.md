@@ -39,10 +39,10 @@ sections:
       - type: FeaturedItem
         title: Aldai Food For Schools Project
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          This is a school feeding project currently taking place in Nandi but
+          intended to expand throughout Kenya.
+
         actions: []
         colors: bg-light-fg-dark
         styles:
