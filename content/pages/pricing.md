@@ -8,9 +8,10 @@ sections:
       text: A VISION OF A BETTER FUTURE.
       color: text-dark
     subtitle: ''
-    text: >
-      Glimpse a world where innovation not only shapes progress but becomes the
-      cornestone of a hermonious existence for both people and nature.
+    text: |
+      ***OUR PORTFOLIO, ***
+
+      ***WHAT WE'VE DONE***
     actions: []
     media:
       type: ImageBlock
