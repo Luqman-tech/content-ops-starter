@@ -8,10 +8,11 @@ sections:
       text: A VISION OF A BETTER FUTURE.
       color: text-dark
     subtitle: ''
-    text: |
-      ***OUR PORTFOLIO, ***
+    text: |+
+      ## **OUR PORTFOLIO,**
 
-      ***WHAT WE'VE DONE***
+      ## ***WHAT WE'VE DONE***
+
     actions: []
     media:
       type: ImageBlock
