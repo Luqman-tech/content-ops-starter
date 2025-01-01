@@ -1,95 +1,58 @@
 ---
-title: Careers
+title: Services
 slug: careers
 sections:
-  - title:
-      text: A team that works closely together
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
+  - type: GenericSection
+    title:
       type: TitleBlock
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+      text: WHAT WE DO.
+      color: text-dark
+    subtitle: ''
+    text: >+
+      #### WE ARE IN THE BUSINESS OF PROVIDING INNOVATIVE SOLUTIONS:*Our team of
+      experts implements innovative strategies that enhance the overall
+      well-being of the environment, the people, and the fiscal standing of the
+      parties involved.*
+
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Lightbulb.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    elementId: ''
     colors: bg-neutral-fg-dark
     styles:
       self:
-        padding:
-          - pt-40
-          - pl-4
-          - pb-40
-          - pr-4
         alignItems: center
-        flexDirection: row-reverse
-        justifyContent: center
-      text:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
-  - title:
-      text: Meet the team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
+        flexDirection: row
         padding:
           - pt-16
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
+        justifyContent: flex-end
   - title:
-      text: Open positions
+      text: OUR SERVICES
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
+      - title: Data Management Consultation
+        subtitle: ''
+        text: >
+          We work with you to identify the key data points needed to assess your
+          environmental, fiscal, and social standing and impact and custom-make
+          a record-keeping and storage technique that is most efficient for you
+          and your goals.
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -102,13 +65,31 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
+        image:
+          type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - title: 'Data Mining, Analysis, and Interpretation'
+        subtitle: ''
+        text: >
+          We analyze your existing data, and those from external sources when
+          needed, and
+
+          interpret the findings in accordance to your goal. We will help you
+          understand
+
+          where you are at in relation to where you would like to be, and how to
+          get
+
+          there, and the innovative steps you can take to enhance your
+          financial, social
+
+          and environmental impact.
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -121,13 +102,17 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
+      - title: Project Strategies Consultation and Implementation
+        subtitle: ''
+        text: >
+          We help you realize your goals by working with you to create scalable,
+          sustainable
+
+          implementation strategies that bear simultaneous impact on the social,
+          economic
+
+          and physical standing on the community.
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -138,13 +123,37 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+      - type: FeaturedItem
+        title: Sustainable Business Development
+        tagline: ''
+        subtitle: ''
+        text: >
+          Using our wide networks, we help you establish sustainable sourcing
+          and distribution
+
+          networks that better the lives of the people involved, are environment
+          friendly
+
+          and, are economically sound to you. 
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
