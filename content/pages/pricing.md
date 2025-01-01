@@ -9,9 +9,7 @@ sections:
       color: text-dark
     subtitle: ''
     text: |+
-      #### **OUR PORTFOLIO,**
-
-      #### ***WHAT WE'VE DONE***
+      #### **OUR PORTFOLIO, *WHAT WE'VE DONE***
 
     actions: []
     media:
