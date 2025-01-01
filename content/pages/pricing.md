@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'OUR PORTFOLIO, WHAT WE''VE DONE'
+      text: ''
       color: text-dark
     subtitle: ''
     text: |+
