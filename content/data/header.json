@@ -13,10 +13,20 @@
         "url": "/images/logo (1).png"
     },
     "primaryLinks": [
+        
         {
             "label": "Services",
             "altText": "Careers page",
             "url": "/careers",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "projects",
+            "altText": "projects page",
+            "url": "/projects",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
