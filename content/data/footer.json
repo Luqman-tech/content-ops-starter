@@ -10,8 +10,8 @@
         "links": [
             {
                 "label": "Data Management Consultation",
-                "altText": "Features page",
-                "url": "/",
+                "altText": "",
+                "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -19,7 +19,7 @@
             },
             {
                 "label": "Data Mining, Analysis and Interpretation",
-                "url": "/pricing",
+                "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -27,7 +27,7 @@
             },
             {
                 "label": "Project Strategies, Consultation, and Implementation",
-                "url": "/",
+                "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
