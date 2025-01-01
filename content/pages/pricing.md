@@ -79,10 +79,13 @@ sections:
       - type: FeaturedItem
         title: 'Kieni Greening Schools Project '
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          This is a program to restore green spaces in and around schools in
+          Kieni.
+
+
+
+
         actions: []
         colors: bg-light-fg-dark
         styles:
