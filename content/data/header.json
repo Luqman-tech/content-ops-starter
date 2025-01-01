@@ -24,8 +24,8 @@
             "type": "Link"
         },
         {
-            "label": "projects",
-            "altText": "projects page",
+            "label": "Projects",
+            "altText": "Projects page",
             "url": "/projects",
             "icon": "arrowRight",
             "iconPosition": "right",
