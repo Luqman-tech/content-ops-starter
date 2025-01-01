@@ -6,7 +6,7 @@
     },
     "text": "Eco Thrive Africa\n",
     "primaryLinks": {
-        "title": "oUr services",
+        "title": "OUR SERVICES",
         "links": [
             {
                 "label": "Data Management Consultation",
@@ -36,29 +36,6 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "GitHub link",
@@ -79,31 +56,14 @@
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
+            "altText": "ecothriveafrica@gmail.com",
+            "url": "/ecothriveafrica@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "legalLinks": [],
+    "copyrightText": "Copyright EcoThrive Africa \n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
