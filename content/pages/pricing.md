@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A VISION OF A BETTER FUTURE.
+      text: 'OUR PORTFOLIO, WHAT WE''VE DONE'
       color: text-dark
     subtitle: ''
     text: |+
