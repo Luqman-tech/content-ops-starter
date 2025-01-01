@@ -59,10 +59,10 @@ sections:
       - type: FeaturedItem
         title: Positive Psychology For Schools
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          This is a mental health program targeting students at all levels of
+          academic learning.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
