@@ -1,17 +1,11 @@
 {
-    "light": "#F8F8F8",
-    "dark": "#050505",
-    "neutral": "#E8E8EB",
-    "neutralAlt": "#d4c3c3",
-    "primary": "#2a2a2a",
-    "secondary": "#e5a126",
-    "success": "#2110e0",
-    "danger": "#054207",
-    "warning": "#f4f4f5",
-    "info": "#0d0c0c",
-    "night": "",
-    "fontBody": "sans, open sans, lato, merriweather",
-    "fontHeadlines": "sans, montserrat, roboto, playfair display",
+    "light": "#ffffff",
+    "dark": "#111111",
+    "neutral": "#e5a126",
+    "neutralAlt": "#054207",
+    "primary": "#2110e0",
+    "fontBody": "sans",
+    "fontHeadlines": "sans",
     "h1": {
         "size": "6xl",
         "weight": "normal",
@@ -61,7 +55,7 @@
         "type": "ThemeStyleHeading"
     },
     "buttonPrimary": {
-        "weight": "normal",
+        "weight": "bold",
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",

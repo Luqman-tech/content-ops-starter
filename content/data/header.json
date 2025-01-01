@@ -14,15 +14,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Services",
             "altText": "Careers page",
             "url": "/careers",
@@ -31,7 +22,7 @@
             "style": "secondary",
             "type": "Link"
         },
-         {
+        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
@@ -45,7 +36,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Dropd",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
