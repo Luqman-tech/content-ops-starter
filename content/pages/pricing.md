@@ -34,7 +34,7 @@ sections:
           - pr-16
         justifyContent: center
   - type: FeaturedItemsSection
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Account Executive
