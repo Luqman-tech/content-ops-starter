@@ -1,0 +1,61 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "INTRO SECTION",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Pagestarter"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "A VISION OF A BETTER FUTURE.",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "",
+                "text": "Glimpse a world where innovation not only shapes progress but becomes the cornestone of a hermonious existence for both people and nature.\n",
+                "actions": [],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/MtKilimanjaroElephant.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Unblock your team boost your time to production preview",
+                    "elementId": "",
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": "",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row",
+                        "padding": [
+                            "pt-16",
+                            "pl-16",
+                            "pb-16",
+                            "pr-16"
+                        ],
+                        "justifyContent": "flex-end"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-intro-section-9012.png"
+        }
+    ]
+}
