@@ -62,16 +62,7 @@
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "Copyright EcoThrive Africa \n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
