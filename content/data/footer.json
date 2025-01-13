@@ -6,42 +6,11 @@
     },
     "text": "Eco Thrive Africa\n",
     "primaryLinks": {
-        "title": "oUr services",
+        "title": "OUR SERVICES",
         "links": [
             {
                 "label": "Data Management Consultation",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Data Mining, Analysis and Interpretation",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Project Strategies, Consultation, and Implementation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
+                "altText": "",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -49,8 +18,16 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Data Mining, Analysis and Interpretation",
+                "url": "/careers",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Project Strategies, Consultation, and Implementation",
+                "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -79,31 +56,14 @@
             "type": "Social"
         },
         {
-            "altText": "Email link",
-            "url": "/",
+            "altText": "ecothriveafrica@gmail.com",
+            "url": "/ecothriveafrica@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "legalLinks": [],
+    "copyrightText": "Copyright EcoThrive Africa \n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

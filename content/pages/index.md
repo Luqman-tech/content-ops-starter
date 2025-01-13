@@ -8,9 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      Glimpse a world where innovation not only shapes progress but becomes the
-      cornestone of a hermonious existence for both people and nature.
+    text: >+
+      #### *Glimpse a world where innovation not only shapes progress but
+      becomes the cornestone of a hermonious existence for both people and
+      nature.*
+
     actions: []
     media:
       url: /images/MtKilimanjaroElephant.jpg
@@ -51,20 +53,21 @@ sections:
       OUR GOAL: HAVE COMMUNITIES UPLIFT THEMSELVES USING THE POWER OF INNOVATION
       AND TECHNOLOGY.
     text: >+
-      <div style="text-align: left"><div>We are a social enterprise consisting
-      of experts with backgrounds and rich experience in community development,
-      environmental science, business development, engineering, and technology.
-      We leverage data-driven technology, business, and environmental expertise
-      to implement innovative project strategies that enhance the overall
-      well-being of the environment, the people, and the fiscal standing of the
-      parties involved, all at once.</div></div>
+      <div style="text-align: center">#### *<div>We are a social enterprise
+      consisting of experts with backgrounds and rich experience in community
+      development, environmental science, business development, engineering, and
+      technology. We leverage data-driven technology, business, and
+      environmental expertise to implement innovative project strategies that
+      enhance the overall well-being of the environment, the people, and the
+      fiscal standing of the parties involved, all at once.</div>*</div>
 
     badge:
       label: OUR STORY
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: Badge
     colors: bg-light-fg-dark
     styles:
@@ -81,6 +84,8 @@ sections:
           - pr-14
       subtitle:
         textAlign: center
+        fontWeight: 500
+        fontStyle: italic
     type: GenericSection
   - type: CarouselSection
     title: null
@@ -105,7 +110,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -137,7 +142,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -210,13 +215,13 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -237,4 +242,5 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+isDraft: true
 ---
