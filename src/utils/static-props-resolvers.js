@@ -32,6 +32,10 @@ export function resolveStaticProps(urlPath, data) {
                 const resolver = StaticPropsResolvers[objectType];
                 return resolver(value, data, { keyPath, stack });
             }
+            // Ensure undefined values are set to null to avoid serialization issues
+            if (value === undefined) {
+                return null;
+            }
             return value;
         },
         { postOrder: true }
@@ -40,6 +44,11 @@ export function resolveStaticProps(urlPath, data) {
 
 const StaticPropsResolvers = {
     PostLayout: (props, data, debugContext) => {
+        // Ensure author is not undefined
+        if (props.author === undefined) {
+            props.author = null;
+        }
+        return props;
     },
     PostFeedLayout: (props, data) => {
         const numOfPostsPerPage = props.numOfPostsPerPage ?? 10;
@@ -49,6 +58,12 @@ const StaticPropsResolvers = {
         }
         const paginationData = getPagedItemsForPage(props, allPosts, numOfPostsPerPage);
         const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
+        // Ensure author is not undefined in each item
+        items.forEach(item => {
+            if (item.author === undefined) {
+                item.author = null;
+            }
+        });
         return {
             ...props,
             ...paginationData,
@@ -64,6 +79,12 @@ const StaticPropsResolvers = {
         }
         const paginationData = getPagedItemsForPage(props, allCategoryPosts, numOfPostsPerPage);
         const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
+        // Ensure author is not undefined in each item
+        items.forEach(item => {
+            if (item.author === undefined) {
+                item.author = null;
+            }
+        });
         return {
             ...props,
             ...paginationData,
@@ -77,13 +98,26 @@ const StaticPropsResolvers = {
         }
         allPosts = allPosts.slice(0, props.recentCount || 6);
         const recentPosts = resolveReferences(allPosts, ['author', 'category'], data.objects);
+        // Ensure author is not undefined in each post
+        recentPosts.forEach(post => {
+            if (post.author === undefined) {
+                post.author = null;
+            }
+        });
         return {
             ...props,
             posts: recentPosts
         };
     },
     FeaturedPostsSection: (props, data, debugContext) => {
-        return resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
+        const resolvedProps = resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
+        // Ensure author is not undefined in each post
+        resolvedProps.posts?.forEach(post => {
+            if (post.author === undefined) {
+                post.author = null;
+            }
+        });
+        return resolvedProps;
     },
     FeaturedPeopleSection: (props, data, debugContext) => {
         return resolveReferences(props, ['people'], data.objects, debugContext);
