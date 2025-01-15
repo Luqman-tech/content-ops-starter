@@ -19,10 +19,16 @@ export function resolveStaticProps(urlPath, data) {
 
     // Check if page data is found
     if (!pageData) {
+        console.error(`No page found for URL path: ${rootUrlPath}`);
         throw new Error(`No page found for URL path: ${rootUrlPath}`);
     }
 
     const { __metadata, ...rest } = pageData;
+
+    // Ensure the type is set correctly
+    if (!__metadata.modelName) {
+        console.warn(`Page data for ${rootUrlPath} has no modelName. Data:`, pageData);
+    }
 
     const props = {
         page: {
