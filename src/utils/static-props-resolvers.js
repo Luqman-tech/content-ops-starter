@@ -15,10 +15,14 @@ export function resolveStaticProps(urlPath, data) {
 
     // get root path of paged path: /blog/page/2 => /blog
     const rootUrlPath = getRootPagePath(urlPath);
-    const { __metadata, ...rest } = data.pages.find((page) => page.__metadata.urlPath === rootUrlPath);
+    const pageData = data.pages.find((page) => page.__metadata.urlPath === rootUrlPath);
 
-    // Log the resolved props for debugging
-    console.log('Resolved props:', props);
+    // Check if page data is found
+    if (!pageData) {
+        throw new Error(`No page found for URL path: ${rootUrlPath}`);
+    }
+
+    const { __metadata, ...rest } = pageData;
 
     const props = {
         page: {
@@ -31,6 +35,10 @@ export function resolveStaticProps(urlPath, data) {
         },
         ...data.props
     };
+
+    // Log the resolved props for debugging
+    console.log('Resolved props:', props);
+
     return mapDeepAsync(
         props,
         async (value, keyPath, stack) => {
