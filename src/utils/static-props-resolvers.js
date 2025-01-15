@@ -25,6 +25,9 @@ export function resolveStaticProps(urlPath, data) {
 
     const { __metadata, ...rest } = pageData;
 
+    // Log the metadata for debugging
+    console.log('Page metadata:', __metadata);
+
     // Ensure the type is set correctly
     if (!__metadata.modelName) {
         console.warn(`Page data for ${rootUrlPath} has no modelName. Data:`, pageData);
