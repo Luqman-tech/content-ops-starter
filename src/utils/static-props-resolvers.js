@@ -10,10 +10,16 @@ import {
 } from './data-utils';
 
 export function resolveStaticProps(urlPath, data) {
+    // Log the URL path for debugging
+    console.log('Resolving static props for URL path:', urlPath);
+
     // get root path of paged path: /blog/page/2 => /blog
     const rootUrlPath = getRootPagePath(urlPath);
     const { __metadata, ...rest } = data.pages.find((page) => page.__metadata.urlPath === rootUrlPath);
     const props = {
+        // Log the resolved props for debugging
+        console.log('Resolved props:', props);
+
         page: {
             __metadata: {
                 ...__metadata,
