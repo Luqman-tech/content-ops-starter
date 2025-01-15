@@ -16,10 +16,11 @@ export function resolveStaticProps(urlPath, data) {
     // get root path of paged path: /blog/page/2 => /blog
     const rootUrlPath = getRootPagePath(urlPath);
     const { __metadata, ...rest } = data.pages.find((page) => page.__metadata.urlPath === rootUrlPath);
-    const props = {
-        // Log the resolved props for debugging
-        console.log('Resolved props:', props);
 
+    // Log the resolved props for debugging
+    console.log('Resolved props:', props);
+
+    const props = {
         page: {
             __metadata: {
                 ...__metadata,
@@ -65,7 +66,7 @@ const StaticPropsResolvers = {
         const paginationData = getPagedItemsForPage(props, allPosts, numOfPostsPerPage);
         const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
         // Ensure author is not undefined in each item
-        items.forEach(item => {
+        items.forEach((item) => {
             if (item.author === undefined) {
                 item.author = null;
             }
@@ -86,7 +87,7 @@ const StaticPropsResolvers = {
         const paginationData = getPagedItemsForPage(props, allCategoryPosts, numOfPostsPerPage);
         const items = resolveReferences(paginationData.items, ['author', 'category'], data.objects);
         // Ensure author is not undefined in each item
-        items.forEach(item => {
+        items.forEach((item) => {
             if (item.author === undefined) {
                 item.author = null;
             }
@@ -105,7 +106,7 @@ const StaticPropsResolvers = {
         allPosts = allPosts.slice(0, props.recentCount || 6);
         const recentPosts = resolveReferences(allPosts, ['author', 'category'], data.objects);
         // Ensure author is not undefined in each post
-        recentPosts.forEach(post => {
+        recentPosts.forEach((post) => {
             if (post.author === undefined) {
                 post.author = null;
             }
@@ -118,7 +119,7 @@ const StaticPropsResolvers = {
     FeaturedPostsSection: (props, data, debugContext) => {
         const resolvedProps = resolveReferences(props, ['posts.author', 'posts.category'], data.objects, debugContext);
         // Ensure author is not undefined in each post
-        resolvedProps.posts?.forEach(post => {
+        resolvedProps.posts?.forEach((post) => {
             if (post.author === undefined) {
                 post.author = null;
             }
