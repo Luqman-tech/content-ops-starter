@@ -20,13 +20,34 @@ function Page(props) {
 export function getStaticPaths() {
     const data = allContent();
     const paths = resolveStaticPaths(data);
-    return { paths, fallback: false };
+    return { paths, fallback: 'blocking' }; // Changed to 'blocking' for fallback
 }
 
 export async function getStaticProps({ params }) {
     const data = allContent();
     const urlPath = '/' + (params.slug || []).join('/');
     const props = await resolveStaticProps(urlPath, data);
+
+    // Log the structure of the returned data for debugging
+    console.log('Structure of returned data:', { data, props });
+
+    // Log the props and data for debugging
+    console.log('Data from allContent:', data);
+    console.log('Props returned from resolveStaticProps:', props);
+
+    // Log the props for debugging
+    console.log('Props returned from resolveStaticProps:', props);
+
+    // Check if props are empty and redirect to index.md if so
+    if (!props || Object.keys(props).length === 0) {
+        return {
+            redirect: {
+                destination: '/index.md',
+                permanent: false
+            }
+        };
+    }
+
     return { props };
 }
 

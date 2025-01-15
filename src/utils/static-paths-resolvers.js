@@ -11,6 +11,10 @@ export function resolveStaticPaths({ pages, objects }) {
             const resolver = StaticPathsResolvers[objectType];
             return paths.concat(resolver(page, objects));
         }
+        // Ensure the homepage is included in the paths
+        if (pageUrlPath === '/') {
+            paths.push(pageUrlPath);
+        }
         return paths.concat(pageUrlPath);
     }, []);
 }

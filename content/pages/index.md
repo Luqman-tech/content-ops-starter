@@ -6,11 +6,10 @@ sections:
     title:
       text: A VISION OF A BETTER FUTURE.
       color: text-dark
-      type: TitleBlock
     subtitle: ''
     text: >+
       #### *Glimpse a world where innovation not only shapes progress but
-      becomes the cornestone of a hermonious existence for both people and
+      becomes the cornerstone of a harmonious existence for both people and
       nature.*
 
     actions: []
@@ -100,9 +99,6 @@ sections:
           innovative and fiscal stand-point of the business involved and the
           people.
 
-
-
-
         image:
           altText: Maria Walters
           styles:
@@ -131,9 +127,6 @@ sections:
           leverages innovation that is geared towards enhancing the quality of
           life of the African people, their environment and, their economic
           standing.
-
-
-
 
         image:
           altText: John Doe
@@ -241,6 +234,5 @@ seo:
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
-type: PageLayout
-isDraft: true
+  isDraft: false
 ---
