@@ -1,6 +1,7 @@
 ---
 title: Home
 slug: /
+type: PageLayout
 sections:
   - type: GenericSection
     title:
