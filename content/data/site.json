@@ -1,7 +1,11 @@
 {
     "favicon": "/images/favicon.svg",
     "footer": "content/data/footer.json",
+<<<<<<< HEAD
     "titleSuffix": "",
+=======
+    "titleSuffix": "  ",
+>>>>>>> 2c6f9be9574d8938dbd3efb086a1aa47ecab85e0
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json"
