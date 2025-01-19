@@ -6,7 +6,7 @@ slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: ''
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/cq5dam.thumbnail.cropped.1500.844-1024x576.jpeg
   altText: Thumbnail
   type: ImageBlock
   styles:
@@ -25,10 +25,11 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
+![](/images/cq5dam.thumbnail.cropped.1500.844-1024x576.jpeg)
+
+
+
 Kenya has recently experienced severe flooding that has caused widespread devastation, particularly in small communities. The floods have not only led to loss of life and property but have also disrupted the daily lives and livelihoods of many Kenyans. This blog post delves into the causes of these floods, their impact on small communities, and what authorities can do to mitigate such disasters in the future.
-
-
-
 
 ## Causes of the Flooding
 
@@ -47,9 +48,6 @@ Rapid urbanization without adequate planning has led to poor drainage systems in
 ### River Encroachment:
 
 Encroachment on riverbanks for agriculture and settlement has narrowed river channels, reducing their capacity to hold water during heavy rains. This has led to rivers overflowing and flooding nearby areas.
-
-
-
 
 ## Impact on Small Communities
 
@@ -70,9 +68,6 @@ Flooding has led to the contamination of water sources, increasing the risk of w
 ### Displacement and Shelter Crisis:
 
 Thousands of people have been displaced, with many seeking refuge in temporary shelters that are often overcrowded and lack basic amenities. This displacement disrupts education, economic activities, and the social fabric of communities.
-
-
-
 
 ## Steps for Future Prevention
 
@@ -102,13 +97,6 @@ Educating communities about the risks of flooding and the importance of environm
 
 Building and maintaining resilient infrastructure, such as dams and levees, can control water flow and reduce the impact of flooding. Ensuring that these structures are regularly inspected and maintained is equally important.
 
-
-
-
 ## Conclusion
 
 The recent flooding in Kenya has highlighted the urgent need for comprehensive measures to address the root causes and mitigate the impact of such disasters. By investing in environmental conservation, improving infrastructure, and enhancing community awareness, Kenyan authorities can build a more resilient future and protect small communities from the devastating effects of floods. It is a collective effort that requires the commitment of both the government and the citizens to ensure a safer and more sustainable environment for all.
-
-
-
-
