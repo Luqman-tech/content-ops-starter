@@ -1,6 +1,6 @@
 {
     "logo": {
-        "altText": "Logo dark",
+        "altText": "",
         "styles": {
             "self": {
                 "margin": [
@@ -15,8 +15,8 @@
     "primaryLinks": [
         {
             "label": "Services",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "Services page",
+            "url": "/services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -35,7 +35,7 @@
             "type": "Link",
             "label": "Projects",
             "altText": "",
-            "url": "/pricing",
+            "url": "/projects",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
