@@ -145,7 +145,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: orporate Social Responsibility (CSR) Consulting
-        subtitle: Engineering
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
