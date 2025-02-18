@@ -44,7 +44,7 @@ sections:
         title: >-
           Sustainable Strategy Development for the Kenya Forest Club (K.F.C.),
           Central Region Coordination 2024/2025
-        subtitle: Sales
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
