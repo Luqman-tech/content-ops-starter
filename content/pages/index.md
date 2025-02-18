@@ -139,7 +139,7 @@ sections:
       text: Generic Section With A Form
       color: text-dark
     subtitle: ''
-    text: >
+    text: >+
       Get in touch with Ecothrive Africa to learn more about our programs. We
       empower corporations, governments, and non-profits with sustainable
       strategies aligning with their goals.
@@ -147,8 +147,6 @@ sections:
 
       Contact us today.
 
-
-      ![](/images/phone%20icon.png)
     actions: []
     media:
       type: FormBlock
