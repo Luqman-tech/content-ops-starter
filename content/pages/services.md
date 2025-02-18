@@ -9,9 +9,31 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At Ecothrive Africa, we work with our partners to design and implement
+      customized sustainability strategies using data analytics and holistic
+      innovation. Our solutions focus on impacting four key pillars of
+      sustainability dubbed **E-PIE**:
+
+
+      *   **Environment:** Implementing practices that safeguard and restore
+      natural resources, enhancing the local ecosystems for long-term viability.
+
+
+      *   **People:** Creating social value and improving the overall well-being
+      of local, African communities.
+
+
+      *   **Innovation:** Leveraging technology, talents, and skills to optimize
+      project outcomes.
+
+
+      *   **Economy:** Boosting local economies through sustainable development
+      initiatives.
+
+
+      ***Our approach centers on our proprietary E-PIE Framework—a balanced
+      approach to sustainability—ensuring that every project we undertake is
+      holistic and promotes everyone's prosperity.***
     actions:
       - type: Button
         label: Get started
