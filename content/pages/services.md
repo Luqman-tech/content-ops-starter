@@ -144,7 +144,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: orporate Social Responsibility (CSR) Consulting
+        title: Corporate Social Responsibility (CSR) Consulting
         subtitle: ''
         text: >
           We help businesses design corporate social responsibility (CSR)
