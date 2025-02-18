@@ -400,10 +400,11 @@ sections:
         title: Our Mission
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We strive to empower corporations, governments, and non-profits with
+          sustainable strategies that align with their goals and create
+          simultaneous positive impacts on the environment and society, and
+          economic prosperity.
         image:
           type: ImageBlock
           altText: Jane Doe
