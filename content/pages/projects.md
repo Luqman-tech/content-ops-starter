@@ -63,7 +63,9 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: >-
+          ocio-Economic Growth Strategy Development for Aldai Constituency,
+          Nandi County 2024
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
