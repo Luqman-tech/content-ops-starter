@@ -83,7 +83,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: OUR SERVICES
     items:
       - type: FeaturedItem
         title: Account Executive
