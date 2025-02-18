@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Glimpse a world where innovation not only shapes progress but becomes the
+      cornerstone of a hermonious existence for both people and nature.
     actions: []
     media:
       url: /images/MtKilimanjaroElephant.jpg
