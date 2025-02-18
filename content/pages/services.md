@@ -176,8 +176,10 @@ sections:
 slug: /services
 seo:
   type: Seo
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
-  socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTitle: Services
+  metaDescription: >-
+    At Ecothrive Africa, we work with our partners to design and implement
+    customized sustainability strategies using data analytics and holistic
+    innovation.
+  socialImage: /images/Lightbulb.jpg
 ---
