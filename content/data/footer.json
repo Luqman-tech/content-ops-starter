@@ -11,7 +11,7 @@
             {
                 "label": "Project Management",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
