@@ -1,5 +1,7 @@
 ---
-title: The Top Ten L
+title: >-
+  The Devastating Impact of Recent Flooding in Kenya: Causes, Effects, and
+  Future Prevention.
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
