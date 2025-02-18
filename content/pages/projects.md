@@ -108,7 +108,7 @@ sections:
         title: >-
           C.S.R Strategy development for the Ndaradwa Partners in Progress
           (NPIP) to grow 6,000 trees 2020/2021
-        subtitle: Engineering
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
