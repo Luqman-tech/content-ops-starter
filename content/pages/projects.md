@@ -148,19 +148,17 @@ sections:
         url: /images/wellster-logo.svg
         altText: Wellster logo
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/WhatsApp Image 2025-02-12 at 16.10.37_28366784.jpg
         altText: Vise logo
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/WhatsApp Image 2025-02-12 at 16.10.37_7462a38d.jpg
         altText: Telus logo
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/newimage.png
         altText: Contentful logo
       - type: ImageBlock
-        url: /images/sanity-logo.svg
         altText: Sanity logo
       - type: ImageBlock
-        url: /images/rangle-logo.svg
         altText: Rangle logo
     motion: move-to-left
     colors: bg-light-fg-dark
