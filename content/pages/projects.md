@@ -33,7 +33,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Our
+      text: Our Portfolio
       color: text-dark
       styles:
         self:
