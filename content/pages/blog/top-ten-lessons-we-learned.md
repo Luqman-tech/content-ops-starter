@@ -4,7 +4,9 @@ title: >-
   Future Prevention.
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
-excerpt: Sit ratione eligendi et quis distinctio et
+excerpt: >-
+  The floods have not only led to loss of life and property but have also
+  disrupted the daily lives and livelihoods of many Kenyans
 featuredImage:
   url: /images/images.jpeg
   altText: Thumbnail
