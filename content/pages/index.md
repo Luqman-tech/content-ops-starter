@@ -375,10 +375,8 @@ sections:
         title: Our Vision
         tagline: ''
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          To accelerate the sustainable development of Africa and her ecosystem.
         image:
           type: ImageBlock
           altText: Maria Walters
