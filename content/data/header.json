@@ -31,7 +31,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Projects",
             "altText": "",
             "url": "/projects",
             "showIcon": false,
