@@ -108,10 +108,10 @@ sections:
       - type: FeaturedItem
         title: Data Analysis
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Leveraging advanced data tools, we analyze social, environmental, and
+          economic data to pinpoint high-impact initiatives that maximize
+          positive outcomes.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
