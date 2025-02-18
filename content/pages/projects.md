@@ -154,7 +154,7 @@ sections:
         url: /images/WhatsApp Image 2025-02-12 at 16.10.37_7462a38d.jpg
         altText: Telus logo
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/RNC-Brand-Logo-4.png
         altText: Contentful logo
       - type: ImageBlock
         altText: Sanity logo
