@@ -176,4 +176,5 @@ sections:
 slug: /services
 seo:
   type: Seo
+  metaTitle: Services
 ---
