@@ -178,8 +178,8 @@ seo:
   type: Seo
   metaTitle: Services
   metaDescription: >-
-    At Ecothrive Africa, we work with our partners to design and implement
+    At Ecithrive Africa, we work with our partners to design and implement
     customized sustainability strategies using data analytics and holistic
     innovation.
-  socialImage: /images/Lightbulb.jpg
+  addTitleSuffix: true
 ---
