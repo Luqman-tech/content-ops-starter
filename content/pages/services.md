@@ -176,5 +176,4 @@ sections:
 slug: /services
 seo:
   type: Seo
-  addTitleSuffix: true
 ---
