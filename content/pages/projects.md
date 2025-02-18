@@ -45,10 +45,10 @@ sections:
           Sustainable Strategy Development for the Kenya Forest Club (K.F.C.),
           Central Region Coordination 2024/2025
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Worked with the K.F.C Central Region Coordinator, Miss Njore
+          Catherine, in developing an execution strategy that not only enriches
+          the environment but also promotes societal well-being.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
