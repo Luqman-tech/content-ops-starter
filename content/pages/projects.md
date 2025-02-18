@@ -88,10 +88,11 @@ sections:
       - type: FeaturedItem
         title: mpactful Project Identification for Ustawi Global 2023/2024
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Using social, economic, and environmental data analysis, we identified
+          and implemented the most impactful projects for the Maa community in
+          Mashuuru, optimizing their time and resource allocation, and boosting
+          their influence on community welfare.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
