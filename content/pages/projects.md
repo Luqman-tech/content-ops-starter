@@ -86,7 +86,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: mpactful Project Identification for Ustawi Global 2023/2024
+        title: Impactful Project Identification for Ustawi Global 2023/2024
         subtitle: ''
         text: >
           Using social, economic, and environmental data analysis, we identified
