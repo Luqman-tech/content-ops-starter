@@ -41,7 +41,7 @@
         "links": [
             {
                 "label": "Projects",
-                "altText": "careers page",
+                "altText": "projects page",
                 "url": "/projects",
                 "icon": "arrowRight",
                 "iconPosition": "right",
