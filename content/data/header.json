@@ -31,7 +31,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Services",
             "altText": "",
             "url": "/services",
             "showIcon": false,
