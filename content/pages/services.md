@@ -34,16 +34,7 @@ sections:
       ***Our approach centers on our proprietary E-PIE Framework—a balanced
       approach to sustainability—ensuring that every project we undertake is
       holistic and promotes everyone's prosperity.***
-    actions:
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/main-hero.svg
