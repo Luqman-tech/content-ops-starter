@@ -6,7 +6,7 @@ slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: Sit ratione eligendi et quis distinctio et
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/images.jpeg
   altText: Thumbnail
   type: ImageBlock
   styles:
