@@ -40,7 +40,7 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
+                "label": "Projects",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
