@@ -14,9 +14,9 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "Projects",
+            "label": "Services",
             "altText": "",
-            "url": "/projects",
+            "url": "/services",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -25,9 +25,9 @@
         },
         {
             "type": "Link",
-            "label": "Services",
+            "label": "Projects",
             "altText": "",
-            "url": "/services",
+            "url": "/projects",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
