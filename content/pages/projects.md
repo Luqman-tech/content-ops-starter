@@ -86,7 +86,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Senior Software Engineer
+        title: mpactful Project Identification for Ustawi Global 2023/2024
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
