@@ -369,7 +369,7 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Our Vision and Mission
     items:
       - type: FeaturedItem
         title: >-
