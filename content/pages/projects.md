@@ -118,7 +118,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Award winning enterprises trust us
+    subtitle: OUR PARTNERS
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
