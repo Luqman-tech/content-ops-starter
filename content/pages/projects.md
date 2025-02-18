@@ -64,7 +64,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          ocio-Economic Growth Strategy Development for Aldai Constituency,
+          Socio-Economic Growth Strategy Development for Aldai Constituency,
           Nandi County 2024
         subtitle: ''
         text: >
@@ -86,12 +86,13 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Impactful Project Identification for Ustawi Global 2023/2024
+        subtitle: ''
+        text: >
+          Using social, economic, and environmental data analysis, we identified
+          and implemented the most impactful projects for the Maa community in
+          Mashuuru, optimizing their time and resource allocation, and boosting
+          their influence on community welfare.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -103,13 +104,28 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+      - type: FeaturedItem
+        title: >-
+          C.S.R Strategy development for the Ndaradwa Partners in Progress
+          (NPIP) to grow 6,000 trees 2020/2021
+        subtitle: ''
+        text: >
+          Through social and meteorological analysis, we , alongside our
+          partners, developed a 3-phase project and grew 6,000 trees with local
+          schools and societies across Ndaragwa during the period of drestic
+          climatic changes.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
@@ -123,7 +139,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Award winning enterprises trust us
+    subtitle: OUR PARTNERS
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
@@ -176,8 +192,7 @@ sections:
 slug: /projects
 seo:
   type: Seo
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
-  socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTitle: Projects
+  metaDescription: Our Impact Portfolio
+  socialImage: /images/WhatsApp Image 2025-02-12 at 16.04.31_e3d25ed8.jpg
 ---
