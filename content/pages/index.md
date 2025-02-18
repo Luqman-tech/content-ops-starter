@@ -38,11 +38,20 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Ecothrive Africa is a Kenya-based enterprise specializing in the
+      development and implementation of comprehensive sustainability strategies
+      for the African ecosystem. Our innovative solutions are designed to
+      deliver projects that simultaneously improve the environment, empower
+      people, and strengthen the economy—captured in our E-PIE (Environment,
+      People, Innovation, and Economy) framework.
+
+
+      Our work spans multiple sectors, including corporations, governments, and
+      non-profis; where we design and deliver projects aligned with
+      sustainability for Africa. We believe the power of holistic data analytics
+      to drive decision-making, ensuring that our sustainability solutions are
+      both impactful and measurable.
     actions: []
     colors: bg-light-fg-dark
     styles:
