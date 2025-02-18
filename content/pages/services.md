@@ -35,15 +35,6 @@ sections:
       approach to sustainability—ensuring that every project we undertake is
       holistic and promotes everyone's prosperity.***
     actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - type: Link
         label: See Tutorials
         altText: ''
