@@ -41,7 +41,9 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: >-
+          Sustainable Strategy Development for the Kenya Forest Club(K.F.C),
+          Central Region Coordination 2024/2025
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
