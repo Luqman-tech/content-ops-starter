@@ -86,7 +86,7 @@ sections:
     subtitle: OUR SERVICES
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: Sustainable Strategy Development
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
