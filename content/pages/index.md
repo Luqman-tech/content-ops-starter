@@ -145,7 +145,10 @@ sections:
       strategies aligning with their goals.
 
 
-      Contact us today. 
+      Contact us today.
+
+
+      ![](/images/phone%20icon.png)
     actions: []
     media:
       type: FormBlock
