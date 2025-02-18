@@ -1,12 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/logo.jpg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Prosperity for all.\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "SERVICES",
         "links": [
             {
                 "label": "Features",
@@ -40,9 +40,9 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Projects",
+                "altText": "projects page",
+                "url": "/projects",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Copyright [EcoThrive Africa](ecothriveafrica.africa)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
