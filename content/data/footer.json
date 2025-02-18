@@ -9,24 +9,24 @@
         "title": "SERVICES",
         "links": [
             {
-                "label": "Features",
+                "label": "Project Management",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Data Analysis",
+                "url": "/services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Sustainable Strategy Development",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
