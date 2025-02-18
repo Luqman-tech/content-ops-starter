@@ -172,4 +172,5 @@ slug: /projects
 seo:
   type: Seo
   metaTitle: Projects
+  metaDescription: Our Impact Portfolio
 ---
