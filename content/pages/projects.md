@@ -67,10 +67,11 @@ sections:
           ocio-Economic Growth Strategy Development for Aldai Constituency,
           Nandi County 2024
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Worked with relevant heads to strategizing on the current
+          socio-economic development plan in Aldai Constituency through data
+          analysis and the creation of holistic project design, improving both
+          environmental, social, and economic resilience.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
