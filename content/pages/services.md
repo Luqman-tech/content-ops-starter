@@ -128,10 +128,10 @@ sections:
       - type: FeaturedItem
         title: Project Management
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          From ideation to implementation, we offer full-scale management
+          services for sustainability projects, ensuring that projects are
+          delivered on time and with measurable results.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
