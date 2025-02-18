@@ -67,7 +67,7 @@ sections:
           - pr-7
   - type: DividerSection
     title: Divider
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
