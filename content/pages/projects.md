@@ -151,7 +151,7 @@ sections:
         url: /images/vise-logo.svg
         altText: Vise logo
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/WhatsApp Image 2025-02-12 at 16.10.37_7462a38d.jpg
         altText: Telus logo
       - type: ImageBlock
         url: /images/contenful-logo.svg
