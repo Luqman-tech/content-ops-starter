@@ -148,7 +148,7 @@ sections:
         url: /images/wellster-logo.svg
         altText: Wellster logo
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/WhatsApp Image 2025-02-12 at 16.10.37_28366784.jpg
         altText: Vise logo
       - type: ImageBlock
         url: /images/WhatsApp Image 2025-02-12 at 16.10.37_7462a38d.jpg
