@@ -114,7 +114,7 @@ sections:
             self:
               borderRadius: full
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -206,8 +206,12 @@ sections:
     type: DividerSection
 seo:
   metaTitle: 'Home '
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Ecothrive Africa is a Kenya-based enterprise specializing in the development
+    and implementation of comprehensive sustainability strategies for the
+    African ecosystem.
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
