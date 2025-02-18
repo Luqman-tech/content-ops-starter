@@ -139,11 +139,13 @@ sections:
       text: Generic Section With A Form
       color: text-dark
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Get in touch with Ecothrive Africa to learn more about our programs. We
+      empower corporations, governments, and non-profits with sustainable
+      strategies aligning with their goals.
+
+
+      Contact us today. 
     actions: []
     media:
       type: FormBlock
