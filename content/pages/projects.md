@@ -33,7 +33,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/main-hero.svg
+      url: /images/WhatsApp Image 2025-02-12 at 16.04.31_e3d25ed8.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
     badge:
