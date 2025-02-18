@@ -171,4 +171,5 @@ sections:
 slug: /projects
 seo:
   type: Seo
+  metaTitle: Projects
 ---
