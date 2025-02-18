@@ -372,9 +372,7 @@ sections:
     subtitle: Our Vision and Mission
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: Our Vision
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
