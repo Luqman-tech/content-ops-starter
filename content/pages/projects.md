@@ -42,7 +42,7 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Sustainable Strategy Development for the Kenya Forest Club(K.F.C),
+          Sustainable Strategy Development for the Kenya Forest Club (K.F.C.),
           Central Region Coordination 2024/2025
         subtitle: Sales
         text: >-
