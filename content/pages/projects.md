@@ -105,6 +105,25 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
+        title: Sustainable Strategic Development for the Hummingbird Awards 2023/2022
+        subtitle: ''
+        text: >
+          Using the E-PIE (Environment, People, Innovation, and Economy)
+          framework, we designed the Humming Bird Awards Kenya Execution model
+          that allows them to not only plant trees but also boost the societal
+          well-being of their participants.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: >-
           C.S.R Strategy development for the Ndaradwa Partners in Progress
           (NPIP) to grow 6,000 trees 2020/2021
@@ -114,6 +133,26 @@ sections:
           partners, developed a 3-phase project and grew 6,000 trees with local
           schools and societies across Ndaragwa during the period of drestic
           climatic changes.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: >-
+          Restoration of the Nairobi National Park post the construction of the
+          S.G.R 2019
+        subtitle: ''
+        text: >
+          Consulted with a group of non-profit organizations and societies in
+          sustainably restoring the Nairobi National Park'e Cheetah gate after
+          the construction of the Standard Guage Railway. 
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -142,10 +181,10 @@ sections:
     subtitle: OUR PARTNERS
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Sustainable-Futures-Africa-Foundation-SFA.jpg
         altText: Empathy logo
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/images (1).jpeg
         altText: Wellster logo
       - type: ImageBlock
         url: /images/WhatsApp Image 2025-02-12 at 16.10.37_7462a38d.jpg
@@ -154,7 +193,7 @@ sections:
         url: /images/WhatsApp Image 2025-02-12 at 16.10.37_28366784.jpg
         altText: Vise logo
       - type: ImageBlock
-        url: /images/newimage.png
+        url: /images/images.png
         altText: Contentful logo
       - type: ImageBlock
         altText: Sanity logo
