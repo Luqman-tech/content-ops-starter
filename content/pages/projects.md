@@ -200,4 +200,5 @@ seo:
       content: ecothriveafrica.africa/projects/
     - type: MetaTag
       property: 'og:title'
+      content: Our Portfolio
 ---
