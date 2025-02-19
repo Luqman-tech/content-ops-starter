@@ -218,5 +218,6 @@ seo:
       content: A VISION OF A BETTER FUTURE
       property: 'og:title'
     - type: MetaTag
+      property: 'og:url'
 type: PageLayout
 ---
