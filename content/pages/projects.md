@@ -148,7 +148,7 @@ sections:
         title: >-
           Restoration of the Nairobi National Park post the construction of the
           S.G.R 2019
-        subtitle: Engineering
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
