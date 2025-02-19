@@ -59,14 +59,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Copyright [EcoThrive Africa](ecothriveafrica.africa)\n",
     "colors": "bg-dark-fg-light",
