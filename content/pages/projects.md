@@ -105,7 +105,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Project Management
+        title: ustainable Strategic Development for the Humming Bird Awards 2023/2022
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
