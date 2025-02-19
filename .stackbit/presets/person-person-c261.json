@@ -1,0 +1,59 @@
+{
+    "model": "Person",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Person",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "pagefiller"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "person5",
+                "name": "Drake Garza",
+                "role": "Job title",
+                "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/avatar5.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Drake Garza",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "medium",
+                            "margin": [
+                                "mb-8"
+                            ]
+                        }
+                    }
+                },
+                "colors": "bg-light-fg-dark",
+                "elementId": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-6",
+                            "pb-6",
+                            "pl-6",
+                            "pr-6"
+                        ],
+                        "textAlign": "center",
+                        "borderColor": "border-neutral",
+                        "borderStyle": "solid",
+                        "borderWidth": 0,
+                        "borderRadius": "none",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/person-person-c261.png"
+        }
+    ]
+}
