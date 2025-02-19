@@ -184,4 +184,5 @@ seo:
   addTitleSuffix: true
   metaTags:
     - type: MetaTag
+      property: 'og:url'
 ---
