@@ -194,4 +194,11 @@ seo:
   metaDescription: Our Impact Portfolio
   socialImage: /images/WhatsApp Image 2025-02-12 at 16.04.31_e3d25ed8.jpg
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
+      property: 'og:url'
+      content: ecothriveafrica.africa/projects/
+    - type: MetaTag
+      property: 'og:title'
+      content: Our Portfolio
 ---
