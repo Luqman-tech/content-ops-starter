@@ -182,4 +182,11 @@ seo:
     customized sustainability strategies using data analytics and holistic
     innovation.
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
+      property: 'og:url'
+      content: ecothriveafrica.africa/services/
+    - type: MetaTag
+      property: 'og:title'
+      content: What we do
 ---
