@@ -184,7 +184,7 @@ sections:
         url: /images/empathy-logo.svg
         altText: Empathy logo
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/images (1).jpeg
         altText: Wellster logo
       - type: ImageBlock
         url: /images/WhatsApp Image 2025-02-12 at 16.10.37_7462a38d.jpg
