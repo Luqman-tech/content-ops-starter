@@ -105,15 +105,12 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: >-
-          C.S.R Strategy development for the Ndaradwa Partners in Progress
-          (NPIP) to grow 6,000 trees 2020/2021
-        subtitle: ''
-        text: >
-          Through social and meteorological analysis, we , alongside our
-          partners, developed a 3-phase project and grew 6,000 trees with local
-          schools and societies across Ndaragwa during the period of drestic
-          climatic changes.
+        title: Project Management
+        subtitle: Engineering
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -126,12 +123,15 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Project Management
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: >-
+          C.S.R Strategy development for the Ndaradwa Partners in Progress
+          (NPIP) to grow 6,000 trees 2020/2021
+        subtitle: ''
+        text: >
+          Through social and meteorological analysis, we , alongside our
+          partners, developed a 3-phase project and grew 6,000 trees with local
+          schools and societies across Ndaragwa during the period of drestic
+          climatic changes.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
