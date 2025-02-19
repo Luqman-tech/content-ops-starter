@@ -145,7 +145,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Project Management
+        title: >-
+          Restoration of the Nairobi National Park post the construction of the
+          S.G.R 2019
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
