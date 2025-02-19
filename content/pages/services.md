@@ -182,4 +182,6 @@ seo:
     customized sustainability strategies using data analytics and holistic
     innovation.
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 ---
