@@ -38,6 +38,8 @@ seo:
   socialImage: /images/img-placeholder.svg
   type: Seo
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 type: PostFeedLayout
 bottomSections: []
 postFeed:
