@@ -215,5 +215,6 @@ seo:
   addTitleSuffix: true
   metaTags:
     - type: MetaTag
+      content: A VISION OF A BETTER FUTURE
 type: PageLayout
 ---
