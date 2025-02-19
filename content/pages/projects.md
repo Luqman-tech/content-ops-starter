@@ -198,4 +198,5 @@ seo:
     - type: MetaTag
       property: 'og:url'
       content: ecothriveafrica.africa/projects/
+    - type: MetaTag
 ---
