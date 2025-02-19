@@ -107,10 +107,11 @@ sections:
       - type: FeaturedItem
         title: ustainable Strategic Development for the Humming Bird Awards 2023/2022
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Using the E-PIE (Environment, People, Innovation, and Economy)
+          framework, we designed the Humming Bird Awards Kenya Execution model
+          that allows them to not only plant trees but also boost the societal
+          well-being of their participants.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
