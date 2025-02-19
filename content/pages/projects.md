@@ -105,7 +105,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: ustainable Strategic Development for the Humming Bird Awards 2023/2022
+        title: >-
+          Sustainable Strategic Development for the Humming Bird Awards
+          2023/2022
         subtitle: ''
         text: >
           Using the E-PIE (Environment, People, Innovation, and Economy)
