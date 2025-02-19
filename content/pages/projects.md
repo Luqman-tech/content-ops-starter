@@ -181,7 +181,7 @@ sections:
     subtitle: OUR PARTNERS
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Sustainable-Futures-Africa-Foundation-SFA.jpg
         altText: Empathy logo
       - type: ImageBlock
         url: /images/images (1).jpeg
