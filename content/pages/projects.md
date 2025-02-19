@@ -193,7 +193,7 @@ sections:
         url: /images/WhatsApp Image 2025-02-12 at 16.10.37_28366784.jpg
         altText: Vise logo
       - type: ImageBlock
-        url: /images/newimage.png
+        url: /images/images.png
         altText: Contentful logo
       - type: ImageBlock
         altText: Sanity logo
