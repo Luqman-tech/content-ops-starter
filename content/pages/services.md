@@ -186,4 +186,5 @@ seo:
     - type: MetaTag
       property: 'og:url'
       content: ecothriveafrica.africa/services/
+    - type: MetaTag
 ---
