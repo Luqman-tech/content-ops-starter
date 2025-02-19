@@ -11,12 +11,15 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      Get in touch with EcoThrive Africa to learn more about our projects. For
+      us, sustainability is more than just the environment; it includes the
+      well-being of every individual in the community. It's more than an action;
+      its a societal feeling. 
+
+
+      Contact us today to join our mission.
+
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
