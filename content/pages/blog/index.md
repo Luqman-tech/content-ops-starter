@@ -33,8 +33,8 @@ styles:
 seo:
   metaTitle: 'Blog '
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    The Devastating Impact of Recent Flooding in Kenya: Causes, Effects, and
+    Future Prevention.
   socialImage: /images/img-placeholder.svg
   type: Seo
   addTitleSuffix: true
