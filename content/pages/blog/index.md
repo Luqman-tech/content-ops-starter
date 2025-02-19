@@ -37,7 +37,7 @@ seo:
     Future Prevention.
   socialImage: /images/img-placeholder.svg
   type: Seo
-  addTitleSuffix: true
+  addTitleSuffix: false
   metaTags:
     - type: MetaTag
       property: 'og:url'
