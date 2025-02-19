@@ -216,5 +216,6 @@ seo:
   metaTags:
     - type: MetaTag
       content: A VISION OF A BETTER FUTURE
+      property: 'og:title'
 type: PageLayout
 ---
