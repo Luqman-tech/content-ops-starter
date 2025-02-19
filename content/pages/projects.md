@@ -149,10 +149,10 @@ sections:
           Restoration of the Nairobi National Park post the construction of the
           S.G.R 2019
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Consulted with a group of non-profit organizations and societies in
+          sustainably restoring the Nairobi National Park'e Cheetah gate after
+          the construction of the Standard Guage Railway. 
         actions: []
         colors: bg-neutral-fg-dark
         styles:
