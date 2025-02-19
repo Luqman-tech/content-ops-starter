@@ -41,6 +41,7 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:url'
+      content: ecothriveafrica/blog/
 type: PostFeedLayout
 bottomSections: []
 postFeed:
