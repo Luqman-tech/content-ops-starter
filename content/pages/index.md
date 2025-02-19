@@ -219,6 +219,6 @@ seo:
       property: 'og:title'
     - type: MetaTag
       property: 'og:url'
-      content: ecothriveafrica.africa/
+      content: ecothriveafrica.africa/Home
 type: PageLayout
 ---
